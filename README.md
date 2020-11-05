@@ -1,1 +1,2 @@
 # parts_check
+Program is used to help the user find the parts which are not working properly according to other devices. Program requeries a file "PartsToSearch.txt" where will be stored numbers of parts which malfunction. Users starts the program and scan parts. When serial code of a part is found in the file, program will inform the user about it, so the user can take appriopriate actions. Serial number which were found will be stored in a new file "Found.txt". 
